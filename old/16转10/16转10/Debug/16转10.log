@@ -1,0 +1,8 @@
+﻿  源.cpp
+G:\桌面\practice\16转10\16转10\源.cpp(41,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+G:\桌面\practice\16转10\16转10\源.cpp(47,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+G:\桌面\practice\16转10\16转10\源.cpp(53,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+G:\桌面\practice\16转10\16转10\源.cpp(59,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+G:\桌面\practice\16转10\16转10\源.cpp(65,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+G:\桌面\practice\16转10\16转10\源.cpp(71,35): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  16转10.vcxproj -> G:\桌面\practice\16转10\Debug\16转10.exe
